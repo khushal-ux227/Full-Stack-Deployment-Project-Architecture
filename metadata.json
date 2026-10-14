@@ -1,0 +1,8 @@
+{
+  "name": "AURA Objects - Full-Stack E-Commerce & Project Architecture",
+  "description": "Production-grade architectural home goods e-commerce storefront featuring modular React architecture, client-side routing, asset optimization pipeline, and multi-platform deployment configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
